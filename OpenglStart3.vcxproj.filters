@@ -1319,5 +1319,6 @@
   <ItemGroup>
     <Text Include="include\glm\CMakeLists.txt" />
     <Text Include="src\aREADME-FIRST.txt" />
+    <Text Include="docs\aREADME-FIRST.txt" />
   </ItemGroup>
 </Project>

@@ -589,6 +589,7 @@
     <Library Include="libs\glfw3.lib" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="docs\aREADME-FIRST.txt" />
     <Text Include="include\glm\CMakeLists.txt" />
     <Text Include="src\aREADME-FIRST.txt" />
   </ItemGroup>
